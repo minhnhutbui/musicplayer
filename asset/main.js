@@ -29,11 +29,7 @@ const app = {
   },
   songs: [
     {
-<<<<<<< HEAD
       name: "123567",
-=======
-      name: "1234",
->>>>>>> development/user-dashboard
       singer: "Ton Yen Tu",
       path: "./asset/music/gapgo.mp3",
       img: "./asset/img/gap go.jpg",
