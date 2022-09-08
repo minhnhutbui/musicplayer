@@ -41,7 +41,7 @@ const app = {
       img: "./asset/img/flash.jpg",
     },
     {
-      name: "good old days",
+      name: "good days",
       singer: "A",
       path: "./asset/music/good-old-days.mp3",
       img: "./asset/img/good old days.jpg",
