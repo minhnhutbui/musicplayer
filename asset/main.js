@@ -29,7 +29,7 @@ const app = {
   },
   songs: [
     {
-      name: "123",
+      name: "1234",
       singer: "Ton Yen Tu",
       path: "./asset/music/gapgo.mp3",
       img: "./asset/img/gap go.jpg",
